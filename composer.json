@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "filament/filament": "^4.0",
+        "filament/filament": "^4.0|^5.0",
         "illuminate/support": "^11.28|^12.0",
         "spatie/laravel-package-tools": "^1.9"
     },
@@ -31,8 +31,8 @@
         "laravel/pint": "^1.0",
         "nunomaduro/collision": "^8.0",
         "orchestra/testbench": "^9.0|^10.0",
-        "pestphp/pest": "^2.0|^3.0",
-        "pestphp/pest-plugin-laravel": "^2.0|^3.0",
+        "pestphp/pest": "^2.0|^3.0|^4.0",
+        "pestphp/pest-plugin-laravel": "^2.0|^3.0|^4.0",
         "pestphp/pest-plugin-livewire": "^2.0|^3.0",
         "pestphp/pest-plugin-type-coverage": "^2.0|^3.5",
         "phpstan/extension-installer": "^1.4",
